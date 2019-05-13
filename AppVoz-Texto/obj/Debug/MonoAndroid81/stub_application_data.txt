@@ -1,0 +1,2 @@
+android.app.Application
+AppVoz_Texto.AppVoz_Texto
